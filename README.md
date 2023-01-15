@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/airbauer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="airbauer" height="30" width="40" /></a>
-<a href="https://discord.gg/AIRbauer#4554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AIRbauer#4554" height="30" width="40" /></a>
+<a href="https://discord.gg/AIRbauer#4554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="(https://discordapp.com/users/549207539544227846)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
