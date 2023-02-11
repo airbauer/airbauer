@@ -4,6 +4,7 @@
 ## 🚀 About Me
 Hello, my name is Vik and I am from Lower Saxony in Germany. I am a passionate programmer and gamer. I like to play Hitman WoA and write almost everything in JS and CSS. I am always available for relaxed conversations <3
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/549207539544227846)](https://discord.com/users/549207539544227846)
 
 ## 🔗 My Stuff
 
