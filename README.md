@@ -12,7 +12,7 @@ Hello, my name is Vik and I am from Lower Saxony in Germany. I am a passionate p
 
 ![Discord](https://img.shields.io/discord/414027124836532234)
 
-[![My Skills](https://skillicons.dev/icons?i=devto)](https://airbauer.eu/links)
+[![My Skills](https://skillicons.dev/icons?i=devto)](https://airbauer.eu/)
 ## 🛠 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,cs,cpp,nodejs,html,css,angular,aws,)]()
