@@ -12,6 +12,8 @@ Hello, my name is Vik and I am from Lower Saxony in Germany. I am a passionate p
 
 ![Discord](https://img.shields.io/discord/414027124836532234)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://airbauer.eu/)
 ## 🛠 Skills
 
