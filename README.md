@@ -14,17 +14,17 @@ Hello, my name is Vik and I am from Lower Saxony in Germany. I am a passionate p
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![My Skills](https://skillicons.dev/icons?i=devto)](https://airbauer.eu/)
+[![Website](https://skillicons.dev/icons?i=devto)](https://airbauer.eu/)
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,cpp,nodejs,html,css,angular,aws,)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,svelte,react,typescript,vue,vite,mongodb,discord)]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real-airbauer&layout=compact&theme=vision-friendly-dark)
 
 
 ## 🔧 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,replit,xd,unity,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,vercel)]()
 
 
 
@@ -33,4 +33,4 @@ Hello, my name is Vik and I am from Lower Saxony in Germany. I am a passionate p
 
 [MIT](https://github.com/real-airbauer/real-airbauer/blob/main/LICENSE)
 
-Mail Me:) spam.git@use.startmail.com
+Mail Me:) spam.git@airbauer.eu
