@@ -16,7 +16,7 @@ Hello, my name is Vik and I am from Lower Saxony in Germany. I am a passionate p
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![Website](https://skillicons.dev/icons?i=devto)](https://airbauer.eu/) [![Website](https://skillicons.dev/icons?i=discord)](https://discord.com/users/549207539544227846)
+[![Website](https://skillicons.dev/icons?i=devto)](https://airbauer.ch/) [![Website](https://skillicons.dev/icons?i=discord)](https://discord.com/users/549207539544227846)
 ## 🛠 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,svelte,react,typescript,vue,vite,mongodb,discord)]()
