@@ -21,7 +21,7 @@ Hello, my name is Vik and I am from Lower Saxony in Germany. I am a passionate p
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,svelte,react,typescript,vue,vite,mongodb,discord)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real-airbauer&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airbauer&layout=compact&theme=vision-friendly-dark)
 
 
 ## 🔧 Tools
