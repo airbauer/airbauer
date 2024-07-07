@@ -28,8 +28,8 @@ Hello, my name is Vik and I am from Lower Saxony in Germany. I am a passionate p
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,vercel)]()
 
-
-
+<a rel="me" href="https://fosstodon.org/@airbauer"></a>
+<a rel="me" href="https://floss.social/@airbauer"></a>
 
 ## 
 
