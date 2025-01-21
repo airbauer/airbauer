@@ -8,8 +8,6 @@ Hello, my name is Vik and I am from Lower Saxony in Germany. I am a passionate p
 
 ## 🔗 My Stuff
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/airbauer)
-
 <img src="https://img.shields.io/liberapay/receives/airbauer.svg?logo=liberapay">
 
 ![Discord](https://img.shields.io/discord/414027124836532234)
