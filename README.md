@@ -35,4 +35,4 @@ Hello, my name is Vik and I am from Lower Saxony in Germany. I am a passionate p
 
 [MIT](https://github.com/real-airbauer/real-airbauer/blob/main/LICENSE)
 
-Mail Me:) ``` echo 'YWlyYmF1ZXJAcHJvdG9uLm1l' | base64 -d ```
+write me ->  ``` echo 'YWlyYmF1ZXJAcHJvdG9uLm1l' | base64 -d ```
